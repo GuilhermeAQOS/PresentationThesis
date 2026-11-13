@@ -1,7 +1,7 @@
-\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
-\beamer@sectionintoc {2}{Cerebellar-driven cortical dynamics}{4}{0}{2}
-\beamer@sectionintoc {3}{Cerebellar Feedback Loop}{5}{0}{3}
-\beamer@sectionintoc {4}{Model Computational Representation}{6}{0}{4}
-\beamer@sectionintoc {5}{Model Training}{7}{0}{5}
-\beamer@sectionintoc {6}{Cerebellar Feedback Model}{8}{0}{6}
-\beamer@sectionintoc {7}{Evaluation}{9}{0}{7}
+\beamer@sectionintoc {1}{Motivation}{3}{0}{1}
+\beamer@sectionintoc {2}{Introduction}{7}{0}{2}
+\beamer@sectionintoc {3}{Cerebellar-driven cortical dynamics}{8}{0}{3}
+\beamer@sectionintoc {4}{Policy-Gradient RL Approach}{19}{0}{4}
+\beamer@sectionintoc {5}{Evaluation}{21}{0}{5}
+\beamer@sectionintoc {6}{Environment}{22}{0}{6}
+\beamer@sectionintoc {7}{Conclusion}{23}{0}{7}
